@@ -1,5 +1,5 @@
 <?php
-$p= @file_get_contents("http://alwaysnew0.github.io/aabbzz.github.io/token.php"); # Change This Path According to Your Server and Folder
+$p= @file_get_contents("https://alwaysnew0.github.io/aabbzz.github.io/token.php"); # Change This Path According to Your Server and Folder
 
 
 # © 2021 Avishkar Patil DO NOT EDIT ANYTHING TO KEEP RUNNING
